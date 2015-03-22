@@ -1,0 +1,11 @@
+ocr:part
+ocr:left
+ocr:2004
+ocr:15
+ocr:december
+ocr:april
+ocr:list
+ocr:18
+ocr:small
+ocr:january
+ocr:before

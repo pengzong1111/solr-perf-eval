@@ -1,0 +1,20 @@
+{
+	"responseHeader":{
+		"status":0,
+		"QTime":5,
+		"params":{
+			"q":"*:*",
+			"wt":"json",
+			"shards.tolerant":"true",
+			"rows":"0"
+		}
+	},
+	"response":{
+		"numFound":4625202,
+		"start":0,
+		"maxScore":1.0,
+		"docs":[
+			
+		]
+	}
+}

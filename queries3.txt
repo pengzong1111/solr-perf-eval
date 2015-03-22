@@ -1,0 +1,15 @@
+ocr:september
+ocr:war
+ocr:image
+ocr:16
+ocr:both
+ocr:14
+ocr:13
+ocr:july
+ocr:august
+ocr:november
+ocr:end
+ocr:february
+ocr:infobox
+ocr:june
+ocr:series

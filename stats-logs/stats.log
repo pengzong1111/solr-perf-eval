@@ -1,0 +1,200 @@
+ INFO	[2015-03-21 16:33:57,229]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported OR national)	200	372	690	244
+ INFO	[2015-03-21 16:33:57,230]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(technology OR under)	200	195	457	178
+ INFO	[2015-03-21 16:33:57,230]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(research OR supported)	200	119	374	68
+ INFO	[2015-03-21 16:33:57,232]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(u OR s)	200	34	244	15
+ INFO	[2015-03-21 16:33:57,232]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported OR u)	200	486	528	464
+ INFO	[2015-03-21 16:37:04,127]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(zuyin OR pu)	200	196504	196535	196441
+ INFO	[2015-03-21 16:37:06,184]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(nasa OR goddard)	200	198428	198491	198387
+ INFO	[2015-03-21 16:37:07,980]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(culture OR sports)	200	200106	200187	200059
+ INFO	[2015-03-21 16:37:07,980]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(national OR aeronautics)	200	438	493	416
+ INFO	[2015-03-21 16:37:07,981]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(natural OR science)	200	54186	54249	54170
+ INFO	[2015-03-21 16:37:07,981]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:hie	200	162657	162691	162649
+ INFO	[2015-03-21 16:37:07,981]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:nov	200	157936	157981	157920
+ INFO	[2015-03-21 16:37:07,981]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:lordship	200	163202	163258	163190
+ INFO	[2015-03-21 16:37:07,981]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:moll	200	166453	166492	166443
+ INFO	[2015-03-21 16:37:07,981]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:failed	200	163666	163739	163655
+ INFO	[2015-03-21 16:37:07,985]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:explained	200	162900	162950	162885
+ INFO	[2015-03-21 16:37:07,985]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:flie	200	162174	162217	162157
+ INFO	[2015-03-21 16:37:07,985]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:philosophy	200	163368	163441	163262
+ INFO	[2015-03-21 16:37:07,985]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:flame	200	160829	160880	160693
+ INFO	[2015-03-21 16:37:07,985]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:fhip	200	163160	163229	163043
+ INFO	[2015-03-21 16:37:07,985]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"space administration"~2	200	2018	2066	1973
+ INFO	[2015-03-21 16:37:07,985]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"science technology"~2	200	19105	19158	19090
+ INFO	[2015-03-21 16:37:07,985]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"aeronautics space"~2	200	4927	5015	4910
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"national aeronautics"~2	200	2703	2967	2376
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"nasa grant"~2	200	197949	198026	197721
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"helpful comments"~2	200	52574	52632	52548
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"california institute"~2	200	158287	158364	158273
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"scientific research"~2	200	4429	4505	4230
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"reviewer assistance"~2	200	8118	8172	8102
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"supported grant"~2	200	8732	8780	8419
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1976 TO 1999]	200	2868	2917	2658
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1775 TO 1840]	200	3008	3360	2993
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1341 TO 1915]	200	6359	6497	5867
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1607 TO 1816]	200	3156	3292	2667
+ INFO	[2015-03-21 16:37:07,986]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1263 TO 1459]	200	3056	3136	2665
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1061 TO 1845]	200	2300	2347	2089
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1498 TO 1680]	200	2642	2719	2527
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1975 TO 1997]	200	2750	2887	2659
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1737 TO 1915]	200	2880	2924	2864
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1805 TO 1990]	200	2778	2824	2764
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported AND national AND natural AND science AND foundation)	200	168173	168288	167675
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(technology AND under AND contract AND national AND aeronautics)	200	5700	5801	5573
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(research AND supported AND national AND science AND foundation)	200	167945	168039	167626
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(u AND s AND national AND science AND foundation)	200	167845	167973	167832
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported AND u AND s AND department AND energy)	200	5397	5513	5221
+ INFO	[2015-03-21 16:37:07,987]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(zuyin AND pu AND reviewers AND assistance AND evaluating)	200	159237	159238	158816
+ INFO	[2015-03-21 16:37:18,348]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(nasa AND goddard AND space AND flight AND center)	200	206510	206587	206185
+ INFO	[2015-03-21 16:37:18,348]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(culture AND sports AND science AND technology AND japan)	200	196359	196409	196099
+ INFO	[2015-03-21 16:37:18,348]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(national AND aeronautics AND space AND administration AND under)	200	6679	6730	6493
+ INFO	[2015-03-21 16:37:18,349]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(natural AND science AND foundation AND china AND under)	200	198796	198859	198250
+ INFO	[2015-03-21 16:37:18,349]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"space administration"	200	2182	2228	1943
+ INFO	[2015-03-21 16:37:18,349]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"science technology"	200	15543	15603	15193
+ INFO	[2015-03-21 16:37:18,349]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"aeronautics space"	200	1854	1916	1814
+ INFO	[2015-03-21 16:37:18,349]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"national aeronautics"	200	4178	4281	3826
+ INFO	[2015-03-21 16:37:18,351]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"nasa grant"	200	194896	194979	194608
+ INFO	[2015-03-21 16:37:18,351]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"helpful comments"	200	48990	49043	48159
+ INFO	[2015-03-21 16:37:18,351]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"california institute"	200	155236	155309	154423
+ INFO	[2015-03-21 16:37:18,351]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"scientific research"	200	3898	3947	3225
+ INFO	[2015-03-21 16:37:18,351]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"reviewer assistance"	200	5493	5533	4895
+ INFO	[2015-03-21 16:37:18,351]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"supported grant"	200	8787	8875	8315
+ INFO	[2015-03-21 16:37:18,351]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported OR national OR natural OR science OR foundation)	200	166126	166241	165734
+ INFO	[2015-03-21 16:37:18,351]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(technology OR under OR contract OR national OR aeronautics)	200	7718	7886	7302
+ INFO	[2015-03-21 16:37:18,352]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(research OR supported OR national OR science OR foundation)	200	165821	165867	165485
+ INFO	[2015-03-21 16:37:18,352]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(u OR s OR national OR science OR foundation)	200	165832	165956	165720
+ INFO	[2015-03-21 16:37:18,352]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported OR u OR s OR department OR energy)	200	6654	6724	5925
+ INFO	[2015-03-21 16:37:18,352]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(zuyin OR pu OR reviewers OR assistance OR evaluating)	200	190343	190391	190026
+ INFO	[2015-03-21 16:37:18,352]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(nasa OR goddard OR space OR flight OR center)	200	204486	204563	204478
+ INFO	[2015-03-21 16:37:18,352]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(culture OR sports OR science OR technology OR japan)	200	194089	194140	193921
+ INFO	[2015-03-21 16:37:18,352]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(national OR aeronautics OR space OR administration OR under)	200	7013	7166	6864
+ INFO	[2015-03-21 16:37:18,352]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(natural OR science OR foundation OR china OR under)	200	196778	196835	196021
+ INFO	[2015-03-21 16:37:18,353]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"supported national natural science foundation"	200	151951	151958	151292
+ INFO	[2015-03-21 16:37:18,353]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"technology under contract national aeronautics"	200	23184	23187	22808
+ INFO	[2015-03-21 16:37:18,353]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"research supported national science foundation"	200	179312	179317	179298
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"u s national science foundation"	200	212585	212632	212578
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"supported u s department energy"	200	36385	36389	36314
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"zuyin pu reviewers assistance evaluating"	200	156198	156207	156185
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"nasa goddard space flight center"	200	205687	205736	205637
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"culture sports science technology japan"	200	192574	192582	192565
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"national aeronautics space administration under"	200	169638	169665	169406
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"natural science foundation china under"	200	196081	196084	195935
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Primak, N"	200	94760	94807	94714
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Zhang, J"	200	100320	100370	100273
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Hill, R"	200	162446	162477	161897
+ INFO	[2015-03-21 16:37:27,129]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Zhang, Y"	200	99057	99101	98740
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Zhang, X"	200	98494	98539	98346
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Elenin, L"	200	7171	7275	7124
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Drake, A"	200	164509	164546	164498
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*ohnson, J"	200	139810	139849	139761
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Klotz, A"	200	9512	9554	9140
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*illiams, G"	200	96836	96871	96821
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported AND national)	200	5649	6271	5307
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(technology AND under)	200	4657	4764	4640
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(research AND supported)	200	5838	5889	5484
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(u AND s)	200	5165	5201	4179
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported AND u)	200	5862	5907	4794
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(zuyin AND pu)	200	154549	154588	153585
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(nasa AND goddard)	200	189294	189353	189147
+ INFO	[2015-03-21 16:37:27,130]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(culture AND sports)	200	190974	191058	190964
+ INFO	[2015-03-21 16:37:27,131]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(national AND aeronautics)	200	5861	5985	5194
+ INFO	[2015-03-21 16:37:27,131]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(natural AND science)	200	44791	44830	44783
+ INFO	[2015-03-21 16:43:11,278]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported AND national AND natural AND science AND foundation)	200	120	440	12
+ INFO	[2015-03-21 16:43:11,278]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(technology AND under AND contract AND national AND aeronautics)	200	28	241	15
+ INFO	[2015-03-21 16:43:11,278]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(research AND supported AND national AND science AND foundation)	200	28	137	13
+ INFO	[2015-03-21 16:43:11,279]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(u AND s AND national AND science AND foundation)	200	48	99	12
+ INFO	[2015-03-21 16:43:11,279]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported AND u AND s AND department AND energy)	200	23	70	12
+ INFO	[2015-03-21 16:43:11,279]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(zuyin AND pu AND reviewers AND assistance AND evaluating)	200	15	18	4
+ INFO	[2015-03-21 16:43:11,280]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(nasa AND goddard AND space AND flight AND center)	200	19	51	10
+ INFO	[2015-03-21 16:43:11,280]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(culture AND sports AND science AND technology AND japan)	200	22	76	11
+ INFO	[2015-03-21 16:43:11,280]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(national AND aeronautics AND space AND administration AND under)	200	25	57	12
+ INFO	[2015-03-21 16:43:11,280]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(natural AND science AND foundation AND china AND under)	200	20	54	11
+ INFO	[2015-03-21 16:43:11,280]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1976 TO 1999]	200	28	65	19
+ INFO	[2015-03-21 16:43:11,280]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1775 TO 1840]	200	29	51	21
+ INFO	[2015-03-21 16:43:11,280]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1341 TO 1915]	200	31	54	20
+ INFO	[2015-03-21 16:43:11,280]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1607 TO 1816]	200	27	51	18
+ INFO	[2015-03-21 16:43:11,281]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1263 TO 1459]	200	28	53	19
+ INFO	[2015-03-21 16:43:11,284]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1061 TO 1845]	200	28	62	19
+ INFO	[2015-03-21 16:43:11,285]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1498 TO 1680]	200	26	55	18
+ INFO	[2015-03-21 16:43:11,285]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1975 TO 1997]	200	27	65	18
+ INFO	[2015-03-21 16:43:11,285]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1737 TO 1915]	200	27	49	18
+ INFO	[2015-03-21 16:43:11,285]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=publishDateTrie:[1805 TO 1990]	200	29	60	18
+ INFO	[2015-03-21 16:43:11,285]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported OR national OR natural OR science OR foundation)	200	20	51	11
+ INFO	[2015-03-21 16:43:11,285]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(technology OR under OR contract OR national OR aeronautics)	200	19	56	11
+ INFO	[2015-03-21 16:43:11,285]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(research OR supported OR national OR science OR foundation)	200	21	59	10
+ INFO	[2015-03-21 16:43:11,286]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(u OR s OR national OR science OR foundation)	200	22	67	13
+ INFO	[2015-03-21 16:43:11,286]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported OR u OR s OR department OR energy)	200	19	58	11
+ INFO	[2015-03-21 16:43:11,286]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(zuyin OR pu OR reviewers OR assistance OR evaluating)	200	22	70	12
+ INFO	[2015-03-21 16:43:11,286]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(nasa OR goddard OR space OR flight OR center)	200	75	104	69
+ INFO	[2015-03-21 16:43:11,286]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(culture OR sports OR science OR technology OR japan)	200	21	56	10
+ INFO	[2015-03-21 16:43:11,286]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(national OR aeronautics OR space OR administration OR under)	200	21	64	10
+ INFO	[2015-03-21 16:43:11,286]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(natural OR science OR foundation OR china OR under)	200	22	49	11
+ INFO	[2015-03-21 16:43:11,287]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported AND national)	200	19	72	11
+ INFO	[2015-03-21 16:43:11,287]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(technology AND under)	200	21	70	13
+ INFO	[2015-03-21 16:43:11,287]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(research AND supported)	200	19	51	10
+ INFO	[2015-03-21 16:43:11,287]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(u AND s)	200	18	45	10
+ INFO	[2015-03-21 16:43:11,287]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported AND u)	200	654	767	646
+ INFO	[2015-03-21 16:43:11,287]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(zuyin AND pu)	200	565	705	556
+ INFO	[2015-03-21 16:43:11,287]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(nasa AND goddard)	200	469	621	460
+ INFO	[2015-03-21 16:43:11,287]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(culture AND sports)	200	370	522	358
+ INFO	[2015-03-21 16:43:11,288]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(national AND aeronautics)	200	269	437	249
+ INFO	[2015-03-21 16:43:11,288]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(natural AND science)	200	166	330	150
+ INFO	[2015-03-21 16:43:11,288]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:hie	200	63	202	18
+ INFO	[2015-03-21 16:43:11,288]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:nov	200	101	157	24
+ INFO	[2015-03-21 16:43:11,288]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:lordship	200	17	51	11
+ INFO	[2015-03-21 16:43:11,288]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:moll	200	17	53	9
+ INFO	[2015-03-21 16:43:11,288]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:failed	200	22	51	11
+ INFO	[2015-03-21 16:43:11,288]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:explained	200	19	46	11
+ INFO	[2015-03-21 16:43:11,289]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:flie	200	21	47	11
+ INFO	[2015-03-21 16:43:11,289]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:philosophy	200	149	182	141
+ INFO	[2015-03-21 16:43:11,289]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:flame	200	54	100	45
+ INFO	[2015-03-21 16:43:11,289]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:fhip	200	22	56	11
+ INFO	[2015-03-21 16:43:11,289]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported OR national)	200	19	111	11
+ INFO	[2015-03-21 16:43:11,289]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(technology OR under)	200	21	69	10
+ INFO	[2015-03-21 16:43:11,289]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(research OR supported)	200	22	58	10
+ INFO	[2015-03-21 16:43:11,289]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(u OR s)	200	17	46	9
+ INFO	[2015-03-21 16:43:11,290]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(supported OR u)	200	20	57	10
+ INFO	[2015-03-21 16:43:11,290]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(zuyin OR pu)	200	22	54	10
+ INFO	[2015-03-21 16:43:11,290]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(nasa OR goddard)	200	19	55	10
+ INFO	[2015-03-21 16:43:11,290]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(culture OR sports)	200	20	67	11
+ INFO	[2015-03-21 16:43:11,290]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(national OR aeronautics)	200	18	58	9
+ INFO	[2015-03-21 16:43:11,291]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:(natural OR science)	200	21	140	11
+ INFO	[2015-03-21 16:43:11,291]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"space administration"	200	57	95	11
+ INFO	[2015-03-21 16:43:11,291]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"science technology"	200	21	57	11
+ INFO	[2015-03-21 16:43:11,291]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"aeronautics space"	200	22	77	14
+ INFO	[2015-03-21 16:43:11,291]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"national aeronautics"	200	17	51	9
+ INFO	[2015-03-21 16:43:11,291]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"nasa grant"	200	20	59	11
+ INFO	[2015-03-21 16:43:11,291]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"helpful comments"	200	19	50	11
+ INFO	[2015-03-21 16:43:11,291]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"california institute"	200	25	54	14
+ INFO	[2015-03-21 16:43:11,291]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"scientific research"	200	22	47	11
+ INFO	[2015-03-21 16:43:11,292]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"reviewer assistance"	200	31	51	10
+ INFO	[2015-03-21 16:43:11,292]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"supported grant"	200	19	51	11
+ INFO	[2015-03-21 16:43:11,292]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Primak, N"	200	21	57	10
+ INFO	[2015-03-21 16:43:11,292]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Zhang, J"	200	21	60	11
+ INFO	[2015-03-21 16:43:11,292]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Hill, R"	200	21	46	13
+ INFO	[2015-03-21 16:43:11,292]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Zhang, Y"	200	19	66	11
+ INFO	[2015-03-21 16:43:11,292]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Zhang, X"	200	21	62	12
+ INFO	[2015-03-21 16:43:11,292]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Elenin, L"	200	18	49	10
+ INFO	[2015-03-21 16:43:11,293]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Drake, A"	200	21	48	11
+ INFO	[2015-03-21 16:43:11,293]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*ohnson, J"	200	19	51	11
+ INFO	[2015-03-21 16:43:11,293]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*Klotz, A"	200	21	44	12
+ INFO	[2015-03-21 16:43:11,293]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"*illiams, G"	200	21	52	11
+ INFO	[2015-03-21 16:43:11,293]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"space administration"~2	200	18	54	10
+ INFO	[2015-03-21 16:43:11,293]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"science technology"~2	200	19	71	11
+ INFO	[2015-03-21 16:43:11,293]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"aeronautics space"~2	200	19	60	10
+ INFO	[2015-03-21 16:43:11,293]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"national aeronautics"~2	200	17	49	9
+ INFO	[2015-03-21 16:43:11,294]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"nasa grant"~2	200	20	60	12
+ INFO	[2015-03-21 16:43:11,294]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"helpful comments"~2	200	20	52	11
+ INFO	[2015-03-21 16:43:11,294]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"california institute"~2	200	19	47	11
+ INFO	[2015-03-21 16:43:11,294]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"scientific research"~2	200	22	64	10
+ INFO	[2015-03-21 16:43:11,294]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"reviewer assistance"~2	200	18	54	11
+ INFO	[2015-03-21 16:43:11,294]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"supported grant"~2	200	21	54	11
+ INFO	[2015-03-21 16:43:11,294]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"supported national natural science foundation"	200	16	17	5
+ INFO	[2015-03-21 16:43:11,294]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"technology under contract national aeronautics"	200	14	19	4
+ INFO	[2015-03-21 16:43:11,295]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"research supported national science foundation"	200	11	13	4
+ INFO	[2015-03-21 16:43:11,295]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"u s national science foundation"	200	54	93	44
+ INFO	[2015-03-21 16:43:11,295]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"supported u s department energy"	200	12	16	4
+ INFO	[2015-03-21 16:43:11,295]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"zuyin pu reviewers assistance evaluating"	200	15	19	4
+ INFO	[2015-03-21 16:43:11,295]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"nasa goddard space flight center"	200	22	64	12
+ INFO	[2015-03-21 16:43:11,295]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"culture sports science technology japan"	200	12	18	5
+ INFO	[2015-03-21 16:43:11,295]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"national aeronautics space administration under"	200	19	41	11
+ INFO	[2015-03-21 16:43:11,296]	[pool-4-thread-1]	(User.java:63)	-	http://chinkapin.pti.indiana.edu:9994	/solr/ocr/select?wt=json&rows=15&q=ocr:"natural science foundation china under"	200	12	16	4

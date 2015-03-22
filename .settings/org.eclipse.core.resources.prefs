@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//queries/boolean-and-2-query.txt=UTF-8
+encoding//queries/boolean-and-5-query.txt=UTF-8
+encoding//queries/boolean-or-2-query.txt=UTF-8
+encoding//queries/boolean-or-5-query.txt=UTF-8
+encoding//queries/long-phrase-query.txt=UTF-8
+encoding//queries/proximity-query.txt=UTF-8
+encoding//queries/short-phrase-query.txt=UTF-8
+encoding//queries/term-query-high-freq.txt=UTF-8
+encoding//queries/wildcard-query.txt=UTF-8
+encoding/queries=UTF-8
